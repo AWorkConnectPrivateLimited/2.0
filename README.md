@@ -17,4 +17,4 @@ AI with Environment Control: Unlike traditional dev environments where the AI ca
 
 Whether you’re an experienced developer, a PM, or a designer, AutoLit Ai allows you to easily build production-grade full-stack applications.
 
-For developers interested in building their own AI-powered development tools with WebContainers, check out the open-source Bolt codebase in this repo!
+For developers interested in building their own AI-powered development tools with WebContainers, check out the open-source Autolit codebase in this repo!
